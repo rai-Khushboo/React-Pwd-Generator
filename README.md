@@ -1,4 +1,5 @@
 # Random Password Generator 🎉
+![image](https://github.com/rai-Khushboo/React-Pwd-Generator/assets/146090686/3cfba1a3-6722-4b44-bf87-a5560097ea31)
 
 Generate strong and secure passwords with just a few clicks! 💪🔒
 
