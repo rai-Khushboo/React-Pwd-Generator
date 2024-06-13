@@ -26,8 +26,7 @@ Generate strong and secure passwords with just a few clicks! 💪🔒
 To get started with the Random Password Generator, follow these steps:
 1. Clone the repo.
 2. Install dependencies.
-
-3.Start the development server:
+3.Start the development server.
 4. Open in your browser.
 
 ## Contributions 🙌
