@@ -1,6 +1,8 @@
-# Random Password Generator 🎉
+# Random Password Generator using React😃🎉
 
-Generate strong and secure passwords with just a few clicks! 💪🔒
+![image](https://github.com/rai-Khushboo/React-Pwd-Generator/assets/146090686/3cfba1a3-6722-4b44-bf87-a5560097ea31)
+
+Generate strong and secure passwords with just a few clicks!🚀💪🔒
 
 ## Features ✨
 
@@ -26,9 +28,7 @@ Generate strong and secure passwords with just a few clicks! 💪🔒
 To get started with the Random Password Generator, follow these steps:
 1. Clone the repo.
 2. Install dependencies.
-
-3.Start the development server:
-
+3.Start the development server.
 4. Open in your browser.
 
 ## Contributions 🙌
@@ -39,4 +39,4 @@ Contributions are welcome! Feel free to open issues or PRs. 🚀🌟
 
 For support or questions, contact me .🤝
 
-Happy password generating! 🎊😄
+Happy password generating! 🎊🤗

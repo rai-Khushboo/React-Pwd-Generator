@@ -4,3 +4,4 @@ export default {
     autoprefixer: {},
   },
 }
+//it is postcss file
