@@ -28,6 +28,7 @@ To get started with the Random Password Generator, follow these steps:
 2. Install dependencies.
 
 3.Start the development server:
+
 4. Open in your browser.
 
 ## Contributions 🙌
